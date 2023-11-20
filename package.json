@@ -2,7 +2,6 @@
   "name": "eatease",
   "version": "1.0.0",
   "description": "React APplication",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -23,6 +22,15 @@
   },
   "homepage": "https://github.com/thatgeekyboii/EatEase#readme",
   "devDependencies": {
-    "parcel": "^2.10.3"
-  }
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 10 Chrome version",
+    "last 10 Firefox version "
+  ]
 }
