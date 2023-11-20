@@ -1,0 +1,28 @@
+{
+  "name": "eatease",
+  "version": "1.0.0",
+  "description": "React APplication",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatgeekyboii/EatEase.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "tailwind",
+    "firebase"
+  ],
+  "author": "vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatgeekyboii/EatEase/issues"
+  },
+  "homepage": "https://github.com/thatgeekyboii/EatEase#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
